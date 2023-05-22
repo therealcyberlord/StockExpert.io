@@ -1,0 +1,7 @@
+node_modules
+package-lock.json
+.history
+.env
+users-credentials/
+users-credentials/*
+.env
