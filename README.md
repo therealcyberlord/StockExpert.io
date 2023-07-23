@@ -85,7 +85,7 @@ As with all special applications, this has a lot of data! Some of the important 
 
 The platform will also feature a summary of a user’s tracked stocks, generated using a large language model summarizing multiple articles on followed stocks.
 
-We will use the Chat-GPT API to generate the stock sentiment analysis and the analytical stock summary from multiple sources. Here are the following functionalities: 
+We will use the Huggingface inference API to generate the stock sentiment analysis and the analytical stock summary from multiple sources. Here are the following functionalities: 
     
 
 ### Display stock data
